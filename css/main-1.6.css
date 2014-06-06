@@ -169,6 +169,7 @@ body {
     position: relative;
     top: 19px;
     margin-left: -10px;
+    margin-right: -10px;
     font-size: 0.7em;
 }
 #introtext .head-brad {
@@ -369,6 +370,7 @@ section h2 {
         top: 29px;
         font-size: 0.9em;
         margin-left: -20px;
+        margin-right: -20px;
     }
     #introtext .head-brad {
         font-size: 3em;
