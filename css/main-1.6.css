@@ -817,6 +817,14 @@ section h2 {
     overflow: hidden;
 }
 
+.leftpics img {
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    border-radius: 8px;
+}
+
 .rightpics {
     width:100%;
     left: 10px;
@@ -824,6 +832,14 @@ section h2 {
     top: 10px;
     bottom: 10px;
     overflow: hidden;
+}
+
+.rightpics img {
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    border-radius: 8px;
 }
 
 .responsive-image.snapshots {
