@@ -534,7 +534,7 @@ section h2 {
         font-size: 1.4em;
         line-height: 145%;
         padding: 0 20px;
-    }  
+    }
 
 }
 
@@ -807,6 +807,17 @@ section h2 {
                  url('edwasaib.svg#edwasaib') format('svg');
         font-weight: normal;
         font-style: normal;
+}
+.leftpics {
+    margin: auto;
+}
+
+.responsive-image.snapshots {
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    border-radius: 8px;
 }
 
 .responsive-image.proposal {
