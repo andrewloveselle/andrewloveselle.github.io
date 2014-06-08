@@ -285,6 +285,7 @@ body {
 }
 
 section {
+    font-family: "futura_ltregular", "HelveticaNeueLTStdRegular","HelveticaNeue", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
     text-align: left;
     padding: 25px;
     background-color: black;
@@ -315,9 +316,14 @@ section h1 {
 
 }
 section h2 {
+    font-family: "futura_ltbook", "HelveticaNeueLTStdRegular","HelveticaNeue", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
     font-size: 1.1em;
-    line-height: 120%;
-    padding: 0 0px;
+    padding: 25px;
+}
+
+section h3 {
+    font-family: "futura_ltbook", "HelveticaNeueLTStdRegular","HelveticaNeue", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    padding: 25px;
 }
 
 .column {
