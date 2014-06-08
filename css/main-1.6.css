@@ -449,6 +449,7 @@ section h3 {
     section h3 {
         margin: 0;
         float: left;
+        text-align: left;
     }
 
 
