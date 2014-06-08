@@ -445,6 +445,10 @@ section h3 {
         margin: 0;
     }
 
+    section h3 {
+        margin: 0;
+    }
+
 
     .column p {
         font-size: 1.1em;
