@@ -478,7 +478,7 @@ section h3 {
     .main footer {
         float: left;
         width: 100%;
-        min-width: 100px;
+        min-width: 320px;
     }
 
     section {
