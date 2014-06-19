@@ -824,7 +824,7 @@ section h3 {
         font-style: normal;
 }
 .leftpics {
-    width:100%;
+    max-width:100%;
     left: 10px;
     right: 10px;
     top: 10px;
@@ -841,7 +841,7 @@ section h3 {
 }
 
 .rightpics {
-    width:100%;
+    max-width:100%;
     left: 10px;
     right: 10px;
     top: 10px;
