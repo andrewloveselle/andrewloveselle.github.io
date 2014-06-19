@@ -420,11 +420,13 @@ section h3 {
     .gpartypics {
         padding-right: 50px; 
         text-align: left;
+        max-width: 100%;
     }
 
     .bpartypics {
         padding-right: 50px; 
         text-align: left;
+        max-width: 100%;
     }
 
     #introtext .date {
