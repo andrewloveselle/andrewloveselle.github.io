@@ -388,7 +388,11 @@ section h3 {
         font-size: 3em;
     }
 
-    #introtext .leftpics img {
+    .leftpics img {
+        width: 50%;
+    }
+
+    .rightpics img {
         width: 50%;
     }
 
