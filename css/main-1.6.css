@@ -366,7 +366,23 @@ section h3 {
         line-height:12px;
     }
 
+    .footer-container {
+        position: absolute;
+        bottom:20px;
+        width:100%;
+        line-height:12px;
+    }
+
     .header-container.sticky {
+        position: fixed;
+        top: 15px;
+        
+        animation:thedrop 1s 1;
+        -moz-animation:thedrop 1s 1;
+        -webkit-animation:thedrop 1s 1;
+    }
+
+    .footer-container.sticky {
         position: fixed;
         top: 15px;
         
