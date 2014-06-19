@@ -387,6 +387,11 @@ section h3 {
     #introtext .head-brad {
         font-size: 3em;
     }
+
+    #introtext .leftpics img {
+        width: 50%;
+    }
+
     #introtext .date {
         font-size: 1.1em;
         margin-top: 15px;
@@ -824,7 +829,6 @@ section h3 {
         font-style: normal;
 }
 .leftpics {
-    max-width:100%;
     left: 10px;
     right: 10px;
     top: 10px;
@@ -833,6 +837,7 @@ section h3 {
 }
 
 .leftpics img {
+    max-width: 75%;
     -ms-border-radius: 8px;
     -o-border-radius: 8px;
     -moz-border-radius: 8px;
@@ -841,7 +846,6 @@ section h3 {
 }
 
 .rightpics {
-    max-width:100%;
     left: 10px;
     right: 10px;
     top: 10px;
@@ -850,6 +854,7 @@ section h3 {
 }
 
 .rightpics img {
+    max-width: 75%;
     -ms-border-radius: 8px;
     -o-border-radius: 8px;
     -moz-border-radius: 8px;
