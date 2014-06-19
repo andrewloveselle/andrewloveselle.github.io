@@ -389,19 +389,23 @@ section h3 {
     }
 
     .leftpics img {
-        width: 75%;
+        width: 90%;
     }
 
     .rightpics img {
-        width: 75%;
+        width: 90%;
     }
 
-    .gpartypics img {
-        width: 75%;
+    .gpartypics {
+
+        padding: 30px 30px 60px 30px;
+        text-align: left;
     }
 
-    .bpartypics img {
-        width: 75%
+    .bpartypics {
+
+        padding: 30px 30px 60px 30px;
+        text-align: left;
     }
 
     #introtext .date {
@@ -950,4 +954,3 @@ a.email {
     -webkit-border-radius: 2px;
     border-radius: 2px;
 }
-
