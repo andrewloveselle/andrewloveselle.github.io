@@ -313,7 +313,6 @@ section h1 {
 
     font-family: "EdwardianScrAltITCTT", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     font-size: 2.6em;
-    padding: 25px;
 
 }
 section h2 {
@@ -389,11 +388,11 @@ section h3 {
     }
 
     .leftpics img {
-        width: 90%;
+        width: 100%;
     }
 
     .rightpics img {
-        width: 90%;
+        width: 100%;
     }
 
     .gpartypics {
@@ -468,11 +467,7 @@ section h3 {
         margin: 0;
     }
 
-    section h3 {
-        margin: 0;
-        float: left;
-        text-align: left;
-    }
+   
 
 
     .column p {
