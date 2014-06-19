@@ -418,15 +418,15 @@ section h3 {
     }
 
     .gpartypics {
-        padding-right: 50px; 
+        padding-right: 100px; 
         text-align: left;
-        max-width: 100%;
+        max-width: 75%;
     }
 
     .bpartypics {
-        padding-right: 50px; 
+        padding-right: 100px; 
         text-align: left;
-        max-width: 100%;
+        max-width: 75%;
     }
 
     #introtext .date {
