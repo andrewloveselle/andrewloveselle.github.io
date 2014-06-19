@@ -396,6 +396,14 @@ section h3 {
         width: 75%;
     }
 
+    .gpartypics img {
+        width: 75%;
+    }
+
+    .bpartypics img {
+        width: 75%
+    }
+
     #introtext .date {
         font-size: 1.1em;
         margin-top: 15px;
