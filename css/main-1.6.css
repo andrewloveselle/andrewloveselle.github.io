@@ -396,12 +396,12 @@ section h3 {
     }
 
     .gpartypics {
-        width: 50%;
+        width: auto;
         text-align: left;
     }
 
     .bpartypics {
-        width: 50%;
+        width: auto;
         text-align: left;
     }
 
