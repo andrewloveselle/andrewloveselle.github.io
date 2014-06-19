@@ -419,12 +419,12 @@ section h3 {
 
     .gpartypics {
         text-align: left;
-        width: auto;
+        max-width: 125px;
     }
 
     .bpartypics {
         text-align: left;
-        width: auto;
+        max-width: 125px;
     }
 
     #introtext .date {
