@@ -880,6 +880,38 @@ section h3 {
     border-radius: 8px;
 }
 
+.gpartypics {
+    left: 10px;
+    right: 10px;
+    top: 10px;
+    bottom: 10px;
+}
+
+.gpartypics img {
+    max-width: 75%;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    border-radius: 8px;
+}
+
+.bpartypics {
+    left: 10px;
+    right: 10px;
+    top: 10px;
+    bottom: 10px;
+}
+
+.bpartypics img {
+    max-width: 75%;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    border-radius: 8px;
+}
+
 .rightpics {
     left: 10px;
     right: 10px;
