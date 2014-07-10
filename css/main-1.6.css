@@ -872,7 +872,7 @@ section h3 {
 }
 
 .leftpics img {
-    max-width: 85%;
+    max-width: 100%;
     -ms-border-radius: 8px;
     -o-border-radius: 8px;
     -moz-border-radius: 8px;
@@ -888,7 +888,7 @@ section h3 {
 }
 
 .gpartypics img {
-    min-width: 85%;
+    max-width: 100%;
     -ms-border-radius: 8px;
     -o-border-radius: 8px;
     -moz-border-radius: 8px;
@@ -904,7 +904,7 @@ section h3 {
 }
 
 .bpartypics img {
-    min-width: 85%;
+    max-width: 100%;
     -ms-border-radius: 8px;
     -o-border-radius: 8px;
     -moz-border-radius: 8px;
@@ -921,7 +921,7 @@ section h3 {
 }
 
 .rightpics img {
-    max-width: 85%;
+    max-width: 100%;
     -ms-border-radius: 8px;
     -o-border-radius: 8px;
     -moz-border-radius: 8px;
