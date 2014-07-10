@@ -420,6 +420,10 @@ section h3 {
     .gpartypics {
         width: 100%;
     }
+    
+    .logo {
+        width: 100%;
+    }
 
     .bpartypics {
         width: 100%;
@@ -922,6 +926,23 @@ section h3 {
 
 .rightpics img {
     max-width: 100%;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    border-radius: 8px;
+}
+
+.logo {
+    left: 10px;
+    right: 10px;
+    top: 10px;
+    bottom: 10px;
+    overflow: hidden;
+}
+
+.logo img {
+    max-width: 15%;
     -ms-border-radius: 8px;
     -o-border-radius: 8px;
     -moz-border-radius: 8px;
