@@ -888,7 +888,7 @@ section h3 {
 }
 
 .gpartypics img {
-    max-width: 85%;
+    min-width: 85%;
     -ms-border-radius: 8px;
     -o-border-radius: 8px;
     -moz-border-radius: 8px;
@@ -904,7 +904,7 @@ section h3 {
 }
 
 .bpartypics img {
-    max-width: 85%;
+    min-width: 85%;
     -ms-border-radius: 8px;
     -o-border-radius: 8px;
     -moz-border-radius: 8px;
