@@ -270,27 +270,7 @@ body {
 
 }
 
-#bg-image {
-    position: fixed; 
-    top: -50%; 
-    left: -50%; 
-    width: 200%; 
-    height: 200%;
-}
-#bg-image img {
-    position: absolute; 
-    top: 0; 
-    left: 0; 
-    right: 0; 
-    bottom: 0; 
-    margin: auto; 
-    min-width: 50%;
-    min-height: 50%;
-}
 
-#bg-container {
-
-}
 
 section {
     font-family: "futura_ltregular", "HelveticaNeueLTStdRegular","HelveticaNeue", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
@@ -349,6 +329,47 @@ section h3 {
 /* ==========================================================================
    Media Queries
    ========================================================================== */
+/*
+#bg-image {
+    position: fixed; 
+    top: -50%; 
+    left: -50%; 
+    width: 200%; 
+    height: 200%;
+}
+#bg-image img {
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    right: 0; 
+    bottom: 0; 
+    margin: auto; 
+    min-width: 50%;
+    min-height: 50%;
+}
+*/
+
+
+@media only screen and (min-width: 600px) {
+    #bg-container {
+        background-image: url(/img/bg-pic.jpg);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+
+    }
+
+}
+
+@media only screen and (max-width: 600px) {
+    #bg-container {
+        background-image: url(/img/bg-pic7.jpg);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+    }
+}
+
 
 @media only screen and (min-width: 480px) {
 
@@ -356,9 +377,6 @@ section h3 {
     INTERMEDIATE: Menu
    ==================== */
 
-    body {
-        background-size: cover;
-    }
 
     /** get the transparent bar on the bottom **/
     .header-container {
