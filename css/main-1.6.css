@@ -356,6 +356,9 @@ section h3 {
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: cover;
+        background-position-x: 50%;
+        background-position-y: 0%
+        background-position: center top; 
 
     }
 
@@ -367,6 +370,10 @@ section h3 {
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: cover;
+        background-position-x: 50%;
+        background-position-y: 0%
+        background-position: center top; 
+
     }
 }
 
