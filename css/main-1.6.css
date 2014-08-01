@@ -348,11 +348,53 @@ section h3 {
     min-height: 50%;
 }
 */
-
-
-@media only screen and (min-width: 480px) {
+@media only screen and (min-width: 1140px) {
     #bg-container {
         background-image: url(/img/bg-pic.jpg);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        background-position-x: 50%;
+        background-position-y: 0%
+        background-position: center top; 
+
+    }
+
+}
+
+
+@media only screen and (min-width: 900px) {
+    #bg-container {
+        background-image: url(/img/bg-pic.jpg);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        background-position-x: 50%;
+        background-position-y: 0%
+        background-position: center top; 
+
+    }
+
+}
+
+@media only screen and (min-width: 768px) {
+    #bg-container {
+        background-image: url(/img/bg-pic.jpg);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        background-position-x: 50%;
+        background-position-y: 0%
+        background-position: center top; 
+
+    }
+
+}
+
+
+@media only screen and (max-width: 768px) {
+    #bg-container {
+        background-image: url(/img/bg-pic7.jpg);
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: cover;
