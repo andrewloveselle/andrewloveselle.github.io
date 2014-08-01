@@ -408,7 +408,19 @@ section h3 {
 }
 
 @media only screen and (max-width: 480px) {
-    #bg-container {
+    html {
+        background: url(/img/bg-pic7.jpg) no-repeat center center fixed;
+        background-size: cover;
+        height: 100%
+        overflow: hidden;
+    }
+    body {
+        height: 100%;
+        overflow: scroll;
+        -webkit-overflow-scrolling:touch;
+    }
+
+    /*#bg-container {
         background-image: url(/img/bg-pic7.jpg);
         background-repeat: no-repeat;
         background-attachment: fixed;
@@ -417,7 +429,7 @@ section h3 {
         background-position-y: 0%
         background-position: center top; 
 
-    }
+    }*/
 }
 
 
